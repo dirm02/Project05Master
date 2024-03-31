@@ -1,2 +1,2 @@
-# Project05Master
+# Git Commands
 Payment system Landlord/Tenant
